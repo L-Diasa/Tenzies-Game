@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "./static/css/main.cbac4989.css",
-    "main.js": "./static/js/main.0271ed11.js",
-    "static/js/845.84d19b54.chunk.js": "./static/js/845.84d19b54.chunk.js",
-    "static/media/freeze.wav": "./static/media/freeze.67298c24dc3e1c99accb.wav",
-    "static/media/records.wav": "./static/media/records.6f08f0072702c6c59080.wav",
-    "static/media/unfreeze.wav": "./static/media/unfreeze.5b01190eec8b4c32efa4.wav",
-    "static/media/endGame.wav": "./static/media/endGame.a7022fca9be01d175603.wav",
-    "static/media/newRecord.wav": "./static/media/newRecord.c8c2cf400ea8cc6858d4.wav",
-    "static/media/startGame.wav": "./static/media/startGame.2e00dece7d58be944bdc.wav",
-    "static/media/roll.wav": "./static/media/roll.5fe168f2f2eca3218219.wav",
-    "index.html": "./index.html",
-    "main.cbac4989.css.map": "./static/css/main.cbac4989.css.map",
-    "main.0271ed11.js.map": "./static/js/main.0271ed11.js.map",
-    "845.84d19b54.chunk.js.map": "./static/js/845.84d19b54.chunk.js.map"
+    "main.css": "/Tenzies-Game/static/css/main.cbac4989.css",
+    "main.js": "/Tenzies-Game/static/js/main.55c2b72f.js",
+    "static/js/845.84d19b54.chunk.js": "/Tenzies-Game/static/js/845.84d19b54.chunk.js",
+    "static/media/freeze.wav": "/Tenzies-Game/static/media/freeze.67298c24dc3e1c99accb.wav",
+    "static/media/records.wav": "/Tenzies-Game/static/media/records.6f08f0072702c6c59080.wav",
+    "static/media/unfreeze.wav": "/Tenzies-Game/static/media/unfreeze.5b01190eec8b4c32efa4.wav",
+    "static/media/endGame.wav": "/Tenzies-Game/static/media/endGame.a7022fca9be01d175603.wav",
+    "static/media/newRecord.wav": "/Tenzies-Game/static/media/newRecord.c8c2cf400ea8cc6858d4.wav",
+    "static/media/startGame.wav": "/Tenzies-Game/static/media/startGame.2e00dece7d58be944bdc.wav",
+    "static/media/roll.wav": "/Tenzies-Game/static/media/roll.5fe168f2f2eca3218219.wav",
+    "index.html": "/Tenzies-Game/index.html",
+    "main.cbac4989.css.map": "/Tenzies-Game/static/css/main.cbac4989.css.map",
+    "main.55c2b72f.js.map": "/Tenzies-Game/static/js/main.55c2b72f.js.map",
+    "845.84d19b54.chunk.js.map": "/Tenzies-Game/static/js/845.84d19b54.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.cbac4989.css",
-    "static/js/main.0271ed11.js"
+    "static/js/main.55c2b72f.js"
   ]
 }
