@@ -17,7 +17,7 @@ function LinkGame({text, newGame}) {
     
     return (
         <Link 
-            to="/tenzies"
+            to="/game"
             onClick={start}
             className="link-button">
                 {text}

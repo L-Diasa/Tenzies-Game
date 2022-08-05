@@ -178,8 +178,7 @@ export default function App() {
         <main>
             <Routes>
                 <Route 
-                    exact 
-                    path="/" 
+                    path="*" 
                     element={<StartScreen />}
                 />
                 <Route 
@@ -192,7 +191,7 @@ export default function App() {
                 />
                 <Route 
                     exact 
-                    path="/tenzies" 
+                    path="/game" 
                     element={
                     <>
                         {tenzies &&
