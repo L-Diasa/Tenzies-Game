@@ -34,7 +34,6 @@ export default function App() {
     const [playNewRecord] = useSound(newRecord, { volume: "0.2" })
 
     useEffect(() => {
-        console.log(dice)
         let recordTimer
         const allHeld = dice.every(die => die.isHeld)
         const firstValue = dice[0].value
