@@ -1,4 +1,5 @@
 import React from "react"
+import images from '../images';
 
 export default function Die(props) {
     const styles = {
@@ -10,7 +11,7 @@ export default function Die(props) {
             style={styles}
             onClick={props.holdDice}
         >
-            <img src={`/dice/${props.value}.png`} alt="" />
+            <img src={images[`i${props.value}`]} alt="" />
         </div>
     )
 }
